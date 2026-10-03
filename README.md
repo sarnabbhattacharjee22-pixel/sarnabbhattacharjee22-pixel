@@ -108,12 +108,13 @@
 
 ---
 
-<div align="center">
-  <h3 align="center">07 / ACTIVITY</h3>
-  <p align="center"><code>CODE LEAVES A TRACE.</code></p>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarnabbhattacharjee22-pixel&bg_color=3A0710&color=FFFDF7&line=8E2636&point=D8C3A5&area_color=5A0F1B&area=true&hide_border=true&hide_title=true" width="100%" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sarnabbhattacharjee22-pixel&bg_color=0d0b0c&color=fffdf7&line=7a1f2b&point=d8c3a5&area_color=5a0f1b&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
+</p>
 
 <br>
 
