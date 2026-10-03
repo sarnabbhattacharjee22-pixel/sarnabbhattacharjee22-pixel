@@ -1,4 +1,8 @@
 <div align="center">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
+   <img alt="Logo for Sarnabbhattacharjee22 Pixel" src="header-light.png">
+</picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3A0710&height=140&text=SARNAB%20BHATTACHARJEE&fontColor=FFFDF7&fontSize=42&fontAlignY=60&desc=FULL%20STACK%20DEVELOPER&descAlignY=85&descColor=D8C3A5&descSize=16" width="100%" alt="Header Background" />
 
