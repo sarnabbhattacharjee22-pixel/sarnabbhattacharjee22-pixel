@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">02 / ABOUT</h3>
+  <h3 align="center">ABOUT</h3>
   <p align="center">
     <b>Crafting elegant web architectures and premium digital experiences.</b><br><br>
     Bridging the gap between sophisticated interface design and robust, scalable backend engineering.<br>
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">03 / TECH STACK</h3>
+  <h3 align="center">TECH STACK</h3>
   <br>
 </div>
 
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">04 / WHAT I BUILD</h3>
+  <h3 align="center">WHAT I BUILD</h3>
   <br>
 </div>
 
@@ -83,7 +83,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">05 / DEVELOPMENT PHILOSOPHY</h3>
+  <h3 align="center">DEVELOPMENT PHILOSOPHY</h3>
   <br>
   <code>DISCOVER</code> ⸺ <code>DESIGN</code> ⸺ <code>BUILD</code> ⸺ <code>TEST</code> ⸺ <code>REFINE</code>
   <br><br>
@@ -92,7 +92,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">06 / ENGINEERING ANALYTICS</h3>
+  <h3 align="center">ENGINEERING ANALYTICS</h3>
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=sarnabbhattacharjee22-pixel&show_icons=true&theme=transparent&bg_color=3A0710&title_color=FFFDF7&text_color=F5EFE3&icon_color=D8C3A5&border_color=5A0F1B&hide_border=false" width="48%" alt="GitHub Stats" />
@@ -143,7 +143,7 @@
 ---
 
 <div align="center">
-  <h3 align="center">09 / CURRENT FOCUS</h3>
+  <h3 align="center">CURRENT FOCUS</h3>
   <br>
 </div>
 
@@ -157,35 +157,32 @@
 ---
 
 <div align="center">
-  <h3 align="center">10 / CONNECT</h3>
+  <h3 align="center">CONNECT</h3>
   <p align="center"><code>LET'S BUILD SOMETHING.</code></p>
   <br>
   
   <a href="https://github.com/sarnabbhattacharjee22-pixel">
     <img src="https://img.shields.io/badge/GITHUB-3A0710?style=for-the-badge&logo=github&logoColor=FFFDF7" alt="GitHub" />
   </a>
-  <a href="[INSERT MY LINKEDIN URL]">
+  <a href="https://www.linkedin.com/in/sarnab-bhattacharjee-12b9193b5/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LINKEDIN-3A0710?style=for-the-badge&logo=linkedin&logoColor=FFFDF7" alt="LinkedIn" />
   </a>
-  <a href="[INSERT MY X/TWITTER URL]">
-    <img src="https://img.shields.io/badge/X-3A0710?style=for-the-badge&logo=x&logoColor=FFFDF7" alt="X/Twitter" />
-  </a>
-  <a href="[INSERT MY INSTAGRAM URL]">
+  <a href="https://www.instagram.com/ongshu101?igsh=NXBleDNwY202cDJ5">
     <img src="https://img.shields.io/badge/INSTAGRAM-3A0710?style=for-the-badge&logo=instagram&logoColor=FFFDF7" alt="Instagram" />
   </a>
-  <a href="[INSERT MY FACEBOOK URL]">
+  <a href="https://www.facebook.com/people/Sarnab-Bhattacharjee/pfbid0W1TvfxAdzoD5xVsj7uQxBtZUKinMcNaRbYdagiWS7fEMn1Aw4NN9vLiMcquApWcVl/?rdid=QCUrpWeKIcfZhm1U&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18ihb2ETyT%2F">
     <img src="https://img.shields.io/badge/FACEBOOK-3A0710?style=for-the-badge&logo=facebook&logoColor=FFFDF7" alt="Facebook" />
   </a>
-  <a href="[INSERT MY YOUTUBE URL]">
+  <a href="https://www.youtube.com/@SarnabBhattacharjee">
     <img src="https://img.shields.io/badge/YOUTUBE-3A0710?style=for-the-badge&logo=youtube&logoColor=FFFDF7" alt="YouTube" />
   </a>
-  <a href="[INSERT MY DISCORD URL]">
+  <a href="#">
     <img src="https://img.shields.io/badge/DISCORD-3A0710?style=for-the-badge&logo=discord&logoColor=FFFDF7" alt="Discord" />
   </a>
-  <a href="mailto:[INSERT MY EMAIL]">
+  <a href="mailto:sarnabbhattacharjee22@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-3A0710?style=for-the-badge&logo=gmail&logoColor=FFFDF7" alt="Email" />
   </a>
-  <a href="[INSERT MY PORTFOLIO URL]">
+  <a href="https://sarnabbhattacharjee.me/">
     <img src="https://img.shields.io/badge/PORTFOLIO-3A0710?style=for-the-badge&logo=web&logoColor=FFFDF7" alt="Portfolio" />
   </a>
 
