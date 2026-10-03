@@ -119,15 +119,23 @@
 
 ---
 
-<div align="center">
-  <h3 align="center">08 / CONTRIBUTIONS</h3>
-  <br>
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-snake.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/sarnabbhattacharjee22-pixel/sarnabbhattacharjee22-pixel/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="95%"
+    />
   </picture>
-</div>
+</p>
 
 <br>
 
